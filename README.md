@@ -10,8 +10,8 @@ Functions Templates
 
 | Name        | Description | Version 
 |-------------|----------|---------
-| [plugin-secrets](https://github.com/fonoster/fonos-plugin-secrets) | Manage secrets backed by Vault | 0.1.0
-| [plugin-funcs](https://github.com/fonoster/fonos-plugin-funcs) | Manage functions backed by OpenFaaS | 0.4.0
+| [plugin-secrets](https://github.com/fonoster/fonos-plugin-secrets) | Manage secrets backed by Vault | 0.1.x
+| [plugin-funcs](https://github.com/fonoster/fonos-plugin-funcs) | Manage functions backed by OpenFaaS | 0.6.x
 
 ## Contributing
 
