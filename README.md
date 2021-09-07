@@ -12,6 +12,7 @@ Functions Templates
 |-------------|----------|---------
 | [plugin-secrets](https://github.com/fonoster/fonos-plugin-secrets) | Manage secrets backed by Vault | 0.1.x
 | [plugin-funcs](https://github.com/fonoster/fonos-plugin-funcs) | Manage functions backed by OpenFaaS | 0.6.x
+| [plugin-phone](https://github.com/fonoster/fonos-plugin-phone) | Phone simulator for application testing| 0.1.x
 
 ## Contributing
 
