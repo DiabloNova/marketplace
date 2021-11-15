@@ -1,0 +1,98 @@
+{
+    "apps": [
+        {
+            "categories": [
+                "cli"
+            ],
+            "certified": true,
+            "changelog": "https://raw.githubusercontent.com/fonoster/plugin-phone/main/changelog.md",
+            "description": "Build apps for platforms like Messenger and Slack by using Dialogflow as connecting...",
+            "homepage": "https://cloud.google.com/text-to-speech",
+            "icon": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/dialogflow.png",
+            "id": "dialogflow-platform",
+            "issues": "https://github.com/fonoster/plugin-phone/issues",
+            "license": "MIT",
+            "name": "Dialogflow Platform",
+            "org": "Fonoster",
+            "picture": "/brand-assets/fonoster.svg",
+            "readme": "https://raw.githubusercontent.com/googleapis/nodejs-dialogflow/main/README.md",
+            "related": [
+                "rasa-nlu",
+                "rasa-nlu"
+            ],
+            "repository": "https://github.com/fonoster/plugin-phone",
+            "sponsored": false
+        },
+        {
+            "categories": [
+                "cli",
+                "tts"
+            ],
+            "certified": true,
+            "changelog": "https://raw.githubusercontent.com/fonoster/plugin-phone/main/changelog.md",
+            "description": "Turn speech into text with the Google Cloud speech recognition service.",
+            "homepage": "https://cloud.google.com/text-to-speech",
+            "icon": "https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/google-cloud.png",
+            "id": "google-cloud-asr",
+            "issues": "https://github.com/fonoster/plugin-phone/issues",
+            "license": "MIT",
+            "name": "Google Cloud ASR",
+            "org": "Fonoster",
+            "picture": "/brand-assets/fonoster.svg",
+            "readme": "https://raw.githubusercontent.com/hashicorp/next-mdx-remote/main/README.md",
+            "related": [
+                "azure-asr",
+                "rasa-nlu"
+            ],
+            "repository": "https://github.com/fonoster/plugin-phone",
+            "sponsored": false
+        },
+        {
+            "categories": [
+                "asr"
+            ],
+            "certified": true,
+            "changelog": "https://raw.githubusercontent.com/fonoster/plugin-phone/main/changelog.md",
+            "description": "Turn speech into text with the Azure speech recognition service.",
+            "homepage": "https://cloud.google.com/text-to-speech",
+            "icon": "https://avatars.githubusercontent.com/azure",
+            "id": "azure-asr",
+            "issues": "https://github.com/fonoster/plugin-phone/issues",
+            "license": "MIT",
+            "name": "Azure ASR",
+            "org": "Fonoster",
+            "picture": "/brand-assets/fonoster.svg",
+            "readme": "https://raw.githubusercontent.com/hashicorp/next-mdx-remote/main/README.md",
+            "related": [
+                "google-cloud-asr",
+                "rasa-nlu"
+            ],
+            "repository": "https://github.com/fonoster/plugin-phone",
+            "sponsored": false
+        },
+        {
+            "categories": [
+                "asr",
+                "nlu"
+            ],
+            "certified": true,
+            "changelog": "https://raw.githubusercontent.com/fonoster/plugin-phone/main/changelog.md",
+            "description": "Turn text into structured data with the Rasa natural language understanding service.",
+            "homepage": "https://cloud.google.com/text-to-speech",
+            "icon": "https://avatars.githubusercontent.com/rasahq",
+            "id": "rasa-nlu",
+            "issues": "https://github.com/fonoster/plugin-phone/issues",
+            "license": "MIT",
+            "name": "Rasa NLU",
+            "org": "Fonoster",
+            "picture": "/brand-assets/fonoster.svg",
+            "readme": "https://raw.githubusercontent.com/fonoster/plugin-phone/main/README.md",
+            "related": [
+                "google-cloud-asr",
+                "azure-asr"
+            ],
+            "repository": "https://github.com/fonoster/plugin-phone",
+            "sponsored": false
+        }
+    ]
+}
