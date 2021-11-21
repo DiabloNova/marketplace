@@ -23,28 +23,28 @@ We are accepting items in the following categories:
 **Example of Marketplace item**
 
 ```json
-    {
-      "id": "dialogflow-es",
-      "description": "Lifelike conversational AI with a state-of-the-art virtual agent, ES edition (standard)",
-      "changelog": "https://raw.githubusercontent.com/fonoster/rox/main/CHANGELOG.md",
-      "homepage": "https://cloud.google.com/dialogflow",
-      "icon": "https://raw.githubusercontent.com/fonoster/rox/main/assets/es_logo.png",
-      "issues": "https://github.com/fonoster/rox/issues",
-      "license": "MIT",
-      "name": "Dialogflow Connector (ES)",
-      "org": "Fonoster",
-      "picture": "/brand-assets/fonoster.svg",
-      "readme": "https://raw.githubusercontent.com/fonoster/rox/main/MKPLACE.md",
-      "related": [
-        "dialogflow-cx"
-      ],
-      "categories": [
-        "nlu"
-      ],
-      "repository": "https://github.com/fonoster/rox",
-      "sponsored": false,
-      "certified": false
-    },
+{
+  "id": "dialogflow-es",
+  "description": "Lifelike conversational AI with a state-of-the-art virtual agent, ES edition (standard)",
+  "changelog": "https://raw.githubusercontent.com/fonoster/rox/main/CHANGELOG.md",
+  "homepage": "https://cloud.google.com/dialogflow",
+  "icon": "https://raw.githubusercontent.com/fonoster/rox/main/assets/es_logo.png",
+  "issues": "https://github.com/fonoster/rox/issues",
+  "license": "MIT",
+  "name": "Dialogflow Connector (ES)",
+  "org": "Fonoster",
+  "picture": "/brand-assets/fonoster.svg",
+  "readme": "https://raw.githubusercontent.com/fonoster/rox/main/MKPLACE.md",
+  "related": [
+    "dialogflow-cx"
+  ],
+  "categories": [
+    "nlu"
+  ],
+  "repository": "https://github.com/fonoster/rox",
+  "sponsored": false,
+  "certified": false
+}
 ```
 
 The **sponsored** and **certified** entries are managed by Fonoster Inc. Leave them as `false`. If you wish to have a certified and or sponsored item, please contact us at [fonosterteam@fonoster.com](mailto:fonosterteam@fonoster.com)
