@@ -49,3 +49,5 @@ We are accepting items in the following categories:
 
 The **sponsored** and **certified** entries are managed by Fonoster Inc. Leave them as `false`. If you wish to have a certified and or sponsored item, please contact us at [fonosterteam@fonoster.com](mailto:fonosterteam@fonoster.com)
 
+> Sponsored and certified items are subject to a monthly or yearly fee.
+
